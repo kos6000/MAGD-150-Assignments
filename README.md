@@ -13,7 +13,7 @@ This assignment was a sketch to practice using shapes as forms of buttons. the s
 https://github.com/kos6000/MAGD-150-Assignments/blob/gh-pages/f17magd150lab05_Horaitis_zip/f17magd150lab05_Horaitis_zip.pde
 
 Project #6
-The assignment here was a test of using classes, to which i make a sketch of a basic little house and an cloud. the cloud moved on a loop going across the screen from left to right, all this while i had an array for rain drops going on a loop as well
+The assignment here was a test of using classes, to which i make a sketch of a basic little house and an cloud. the cloud moved on a loop going across the screen from left to right, all this while i had an array for rain drops going on a loop as well.
 https://github.com/kos6000/MAGD-150-Assignments/blob/gh-pages/f17magd150lab06_Horaitis_zip/f17magd150lab06_Horaitis_zip.pde
 https://github.com/kos6000/MAGD-150-Assignments/blob/gh-pages/f17magd150lab06_Horaitis_zip/rain.pde
 https://github.com/kos6000/MAGD-150-Assignments/blob/gh-pages/f17magd150lab06_Horaitis_zip/weather_class.pde
