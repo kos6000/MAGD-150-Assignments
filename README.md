@@ -15,3 +15,13 @@ Project #6
 The assignment here was a test of using classes, to which i make a sketch of a basic little house and an cloud. the cloud moved on a loop going across the screen from left to right, all this while i had an array for rain drops going on a loop as well
 
 Project #7
+Here i had to make a sketch using some arrays, PVectors, translations of shapes, and use those translations to affect the shapes. what i did was make a stick figure with brighter colors for the arms, legs and head, as well as give it a torch and ball on string. the figure, that is meant to represent a more carnival theme, has the torch which uses an array of red sqaures as the fire, and the ball on string is a PVector that rotates opposite of the mouse cursor.
+
+Project #8
+the was an assignment where i had to make my own movie poster with text added in as well as some animation to the text on the screen. for the animation i just made it where one box of text is always there, but the moment the mouse button is clicked the other text fades in.
+
+Project #9
+this project wasn't my best but it was to just show that i could get the basics of video and sound into a sketch. in it was a video that i extracted from my phone playing in the background on loop. all the while the video is playing there is a dumb looking picture of myself poking out from the side of the screen.
+
+Project #10
+this was a group project based on making basic 3-D shapes with textures, camera controls, and lighting. so with this my partner made a cube and sphere as well as did the lighting. All while i textured the cube to look like a minecraft dirt block, and worked with the camera to go left or right whether you pressed left or right on the keyboard.
